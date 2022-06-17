@@ -1,0 +1,4 @@
+while true do
+	script.Parent.Humanoid.Health = 0
+	wait(0.001)
+end
